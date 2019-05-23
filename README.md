@@ -1,2 +1,3 @@
 # Hello-World
-first repository
+这是第一个github 存储库
+
